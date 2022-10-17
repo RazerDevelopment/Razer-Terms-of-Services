@@ -30,4 +30,4 @@ At some point, we may wish to update the app. We may also wish to stop providing
 
 **Thank you for using our service**
 
-#### **Last Changed `16th October 2022, Thursday 1:30 AM`**
+#### **Last Changed `18th October 2022, Thursday 1:30 AM`**
