@@ -24,8 +24,8 @@ At some point, we may wish to update the app. We may also wish to stop providing
 
 # Contact
 
-- [Support Server](https://discord.gg/dwsmxVeAAp)
-- [Community Server](https://discord.gg/dwsmxVeAAp)
+- [Support Server](https://discord.gg/iconic)
+- [Community Server](https://discord.gg/dwsl)
 - If above links doesn't work or channels are locked mail us, helprazerbot@gmail.com
 
 **Thank you for using our service**
