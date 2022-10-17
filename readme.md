@@ -9,7 +9,7 @@ At some point, we may wish to update the app. We may also wish to stop providing
 
 - [Discord TOS](https://discord.com/terms)
 - [Discord Guidelines](https://discord.com/guidelines)
-- [Bot Privacy Policy](https://github.com/violentdevelopement/violent-Privacy-Policy)
+- [Bot Privacy Policy](https://github.com/ViolentDevelopement/violent-Privacy-Policy)
 
 # Prohibited Actions
 
